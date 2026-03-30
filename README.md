@@ -1,7 +1,7 @@
 # Hello, I'm Jacob
 <a href="https://linkedin.com/in/jacobpisarcik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity student at Temple University with a strong interest in blue team operations, SIEM analysis, threat detection, digital forensics, and cloud security. This GitHub portfolio is where I showcase hands on security projects, labs, and technical writeups that reflect my growth in security monitoring, incident investigation, defensive security practices, and technical problem solving.
+I am a Cybersecurity student at Temple University with a strong interest in blue team operations, SIEM analysis, threat detection, digital forensics, and cloud security. This GitHub is where I showcase hands on security projects, labs, and technical writeups that reflect my growth in security monitoring, incident investigation, defensive security practices, and technical problem solving.
 
 ## Objective
 
@@ -50,7 +50,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 ### Platforms and Environments
 <div>
     <img src="https://img.shields.io/badge/-Docker_Desktop-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
@@ -62,25 +62,6 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
     <img src="https://img.shields.io/badge/-Security%2B_In_Progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+## Portfolio Projects
 
-- <a href="https://github.com/YOUR-USERNAME/siem-detection-lab">SIEM Detection Lab</a>  
-  Built and documented detection focused security monitoring exercises using log analysis and alert investigation workflows.
-
-- <a href="https://github.com/YOUR-USERNAME/wireshark-network-analysis">Wireshark Network Analysis</a>  
-  Analyzed packet captures to identify network behavior, protocols, and suspicious traffic patterns.
-
-- <a href="https://github.com/YOUR-USERNAME/network-detection-lab">Network Detection Lab</a>  
-  Used network security monitoring tools to examine traffic and identify potentially malicious activity.
-
-- <a href="https://github.com/YOUR-USERNAME/osint-research-lab">OSINT Research Lab</a>  
-  Performed reconnaissance and open source intelligence analysis using publicly available information and investigative tools.
-
-- <a href="https://github.com/YOUR-USERNAME/windows-event-log-analysis">Windows Event Log Analysis</a>  
-  Investigated Windows logs to identify system activity and potential security relevant events.
-
-- <a href="https://github.com/YOUR-USERNAME/cloud-security-labs">Cloud Security Labs</a>  
-  Documented hands on AWS and Azure security labs involving IAM, networking, access control, and configuration review.
-
-- <a href="https://github.com/YOUR-USERNAME/phishing-investigation-lab">Phishing Investigation Lab</a>  
-  Examined phishing related indicators and documented a basic investigation and response process.
+Additional project writeups and labs can be found in my repositories and on my dedicated projects page.
