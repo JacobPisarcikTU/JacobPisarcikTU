@@ -11,13 +11,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 | Skill | Associated Project |
 |-------|---------------------|
-| SIEM Log Analysis and Detection | <a href="https://github.com/YOUR-USERNAME/siem-detection-lab">SIEM Detection Lab</a> |
-| Network Traffic Analysis | <a href="https://github.com/YOUR-USERNAME/wireshark-network-analysis">Wireshark Network Analysis</a> |
-| IDS and Network Monitoring | <a href="https://github.com/YOUR-USERNAME/network-detection-lab">Network Detection Lab</a> |
-| OSINT and Reconnaissance | <a href="https://github.com/YOUR-USERNAME/osint-research-lab">OSINT Research Lab</a> |
-| Incident Investigation and Documentation | <a href="https://github.com/YOUR-USERNAME/phishing-investigation-lab">Phishing Investigation Lab</a> |
-| Cloud Security and Access Control | <a href="https://github.com/YOUR-USERNAME/cloud-security-labs">Cloud Security Labs</a> |
-| Scripting and Automation | <a href="https://github.com/YOUR-USERNAME/security-automation-scripts">Security Automation Scripts</a> |
+| SIEM Log Analysis and Detection | <a href="https://github.com/YOUR-USERNAME/project-placeholder">Project Placeholder</a> |
 
 ## Tools
 
@@ -62,6 +56,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
     <img src="https://img.shields.io/badge/-Security%2B_In_Progress-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Portfolio Projects
+## Projects
 
-Additional project writeups and labs can be found in my repositories and on my dedicated projects page.
+- <a href="https://github.com/YOUR-USERNAME/project-placeholder">Project Placeholder</a>  
+  This repository will be updated with my first featured cybersecurity project as I continue building my portfolio.
