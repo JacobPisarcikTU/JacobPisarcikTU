@@ -11,7 +11,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 | Skill | Associated Project |
 |-------|---------------------|
-| SIEM Log Analysis and Detection | <a href="https://github.com/YOUR-USERNAME/project-placeholder">Project Placeholder</a> |
+| SIEM Log Analysis and Detection | <a href="https://github.com/JacobPisarcikTU/splunk-log-analysis-detection-lab">Splunk Log Analysis and Detection Lab</a> |
 
 ## Tools
 
@@ -58,5 +58,5 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 ## Projects
 
-- <a href="https://github.com/YOUR-USERNAME/project-placeholder">Project Placeholder</a>  
-  This repository will be updated with my first featured cybersecurity project as I continue building my portfolio.
+- <a href="https://github.com/YOUR-USERNAME/splunk-log-analysis-detection-lab">Splunk Log Analysis and Detection Lab</a>  
+  Built a Splunk home lab to ingest logs, generate security-relevant activity, and investigate detection results in a SIEM environment.
