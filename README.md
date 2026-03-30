@@ -1,4 +1,4 @@
-# Hello, I'm Jacob
+# Hi, I'm Jacob
 <a href="https://linkedin.com/in/jacobpisarcik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity student at Temple University with a strong interest in blue team operations, SIEM analysis, threat detection, digital forensics, and cloud security. This GitHub is where I showcase hands on security projects, labs, and technical writeups that reflect my growth in security monitoring, incident investigation, defensive security practices, and technical problem solving.
@@ -11,7 +11,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 | Skill | Associated Project |
 |-------|---------------------|
-| SIEM Log Analysis and Detection | <a href="https://github.com/JacobPisarcikTU/splunk-log-analysis-detection-lab">Splunk Log Analysis and Detection Lab</a> |
+| Project 1 | <a href="https://github.com/JacobPisarcikTU/splunk-log-analysis-detection-lab">Project 1</a> |
 
 ## Tools
 
@@ -58,5 +58,5 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 ## Projects
 
-- <a href="https://github.com/YOUR-USERNAME/splunk-log-analysis-detection-lab">Splunk Log Analysis and Detection Lab</a>  
-  Built a Splunk home lab to ingest logs, generate security-relevant activity, and investigate detection results in a SIEM environment.
+- <a href="https://github.com/YOUR-USERNAME/splunk-log-analysis-detection-lab">Project 1</a>  
+  Desc.
