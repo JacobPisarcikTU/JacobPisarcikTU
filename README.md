@@ -11,7 +11,7 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 | Skill | Associated Project |
 |-------|---------------------|
-| Project 1 | <a href="https://github.com/JacobPisarcikTU/splunk-log-analysis-detection-lab">Project 1</a> |
+| SIEM Log Analysis and Detection | <a href="https://github.com/JacobPisarcikTU/ssh-log-analysis">SSH Log Analysis in Splunk</a> |
 
 ## Tools
 
@@ -58,5 +58,5 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 ## Projects
 
-- <a href="https://github.com/YOUR-USERNAME/splunk-log-analysis-detection-lab">Project 1</a>  
-  Desc.
+- <a href="https://github.com/JacobPisarcikTU/ssh-log-analysis">SSH Log Analysis in Splunk</a>  
+  Built a Splunk-based lab to ingest and analyze SSH authentication logs, identify failed and successful login attempts, and investigate login activity from a security monitoring perspective.
