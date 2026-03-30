@@ -1,11 +1,11 @@
 # Hello, I'm Jacob
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/jacobpisarcik"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity student at Temple University with a strong interest in blue team operations, SIEM analysis, threat detection, digital forensics, and cloud security. This GitHub portfolio is where I showcase hands on security projects, labs, and technical writeups that reflect my growth in security monitoring, incident investigation, and defensive security practices.
+I am a Cybersecurity student at Temple University with a strong interest in blue team operations, SIEM analysis, threat detection, digital forensics, and cloud security. This GitHub portfolio is where I showcase hands on security projects, labs, and technical writeups that reflect my growth in security monitoring, incident investigation, defensive security practices, and technical problem solving.
 
 ## Objective
 
-My goal is to begin a career in cybersecurity in a Security Operations Center (SOC), threat detection, or blue team focused role. I am especially interested in work involving log analysis, alert triage, incident response, and cloud security, and I use this portfolio to document practical projects that build those skills.
+My goal is to begin a career in cybersecurity in a Security Operations Center (SOC), threat detection, or blue team focused role. I am especially interested in work involving log analysis, alert triage, incident response, cloud security, and network defense, and I use this portfolio to document practical projects that build those skills.
 
 ## Skills
 
@@ -13,46 +13,45 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 |-------|---------------------|
 | SIEM Log Analysis and Detection | <a href="https://github.com/YOUR-USERNAME/siem-detection-lab">SIEM Detection Lab</a> |
 | Network Traffic Analysis | <a href="https://github.com/YOUR-USERNAME/wireshark-network-analysis">Wireshark Network Analysis</a> |
-| Windows Event Log Investigation | <a href="https://github.com/YOUR-USERNAME/windows-event-log-analysis">Windows Event Log Analysis</a> |
+| IDS and Network Monitoring | <a href="https://github.com/YOUR-USERNAME/network-detection-lab">Network Detection Lab</a> |
+| OSINT and Reconnaissance | <a href="https://github.com/YOUR-USERNAME/osint-research-lab">OSINT Research Lab</a> |
 | Incident Investigation and Documentation | <a href="https://github.com/YOUR-USERNAME/phishing-investigation-lab">Phishing Investigation Lab</a> |
 | Cloud Security and Access Control | <a href="https://github.com/YOUR-USERNAME/cloud-security-labs">Cloud Security Labs</a> |
-| Scripting and Security Automation | <a href="https://github.com/YOUR-USERNAME/security-automation-scripts">Security Automation Scripts</a> |
+| Scripting and Automation | <a href="https://github.com/YOUR-USERNAME/security-automation-scripts">Security Automation Scripts</a> |
 
 ## Tools
 
-### Network
+### Programming and Query Languages
+<div>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=C&logoColor=black" />
+</div>
+
+### Network and Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCP%2FIP-1E90FF?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTTP-444444?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DNS-2E8B57?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-</div>
-
-### Security and SIEM
+### SIEM and Security Operations
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-0052CC?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sigma-222222?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Cloud
+### OSINT and Reconnaissance
 <div>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-00ADEF?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Scripting and Development
+### Platforms and Environments
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker_Desktop-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
@@ -70,6 +69,12 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 - <a href="https://github.com/YOUR-USERNAME/wireshark-network-analysis">Wireshark Network Analysis</a>  
   Analyzed packet captures to identify network behavior, protocols, and suspicious traffic patterns.
+
+- <a href="https://github.com/YOUR-USERNAME/network-detection-lab">Network Detection Lab</a>  
+  Used network security monitoring tools to examine traffic and identify potentially malicious activity.
+
+- <a href="https://github.com/YOUR-USERNAME/osint-research-lab">OSINT Research Lab</a>  
+  Performed reconnaissance and open source intelligence analysis using publicly available information and investigative tools.
 
 - <a href="https://github.com/YOUR-USERNAME/windows-event-log-analysis">Windows Event Log Analysis</a>  
   Investigated Windows logs to identify system activity and potential security relevant events.
