@@ -62,3 +62,6 @@ My goal is to begin a career in cybersecurity in a Security Operations Center (S
 
 - <a href="https://github.com/JacobPisarcikTU/ssh-log-analysis">SSH Log Analysis in Splunk</a>  
   Built a Splunk-based lab to ingest and analyze SSH authentication logs, identify failed and successful login attempts, and investigate authentication activity from a security monitoring perspective.
+
+- <a href="https://github.com/JacobPisarcikTU/http-log-analysis">HTTP Log Analysis in Splunk</a>  
+  Used Splunk to ingest and analyze HTTP logs, identify high traffic endpoints, review server side errors, investigate suspicious user agents, and examine large file transfers from a security monitoring perspective.
